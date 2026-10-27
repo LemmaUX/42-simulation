@@ -1,0 +1,5 @@
+taskmaster
+*.o
+logs/
+*.stdout
+*.stderr
